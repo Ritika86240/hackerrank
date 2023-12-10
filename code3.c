@@ -5,9 +5,11 @@ int main() {
     float x, y;
 
     // Input two integers
+    printf("enter the values of a and b");
     scanf("%d %d", &a, &b);
 
     // Input two float numbers
+    printf("enter the values of x and y");
     scanf("%f %f", &x, &y);
 
     // Print the sum and difference of integers
